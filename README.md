@@ -1,2 +1,2 @@
-# SEM_images_noise_analysis
+# SEM images noise analysis
 Noise variation analysis of Scanning Electron Microscopy Images
